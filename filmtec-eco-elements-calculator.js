@@ -1,5 +1,3 @@
-//Copyright © The Dow Chemical Company (1995-2016). All Rights Reserved.
-
 'use strict';
 
 var APP = window.APP = window.APP || {};
